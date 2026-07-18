@@ -6,7 +6,7 @@ Predict product sales based on advertising expenditure using Machine Learning an
 
 ## 🚀 Live Demo
 
-🔗 https://your-streamlit-app-url.streamlit.app
+🔗 https://salespredictor-sushil.streamlit.app/
 
 ---
 
@@ -170,7 +170,7 @@ GitHub:
 https://github.com/Sushil77964
 
 LinkedIn:
-(Add your LinkedIn Profile Link)
+(https://www.linkedin.com/in/sushil-kumar-501070257)
 
 ---
 
